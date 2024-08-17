@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kiameow
+Hi👋 My name is Kiameow
 ===============================================================================================================================
 
 Web Developer
 -------------
 
-* 🖥️  See my portfolio at [Kiameow.top](http://www.kiameow.top)
+* 🖥️  See my portfolio / blog at [Kiameow.top](http://www.kiameow.top)
 * ✉️  You can contact me at [zhang\_lumi@foxmail.com](mailto:zhang_lumi@foxmail.com)
 * 🤝  I'm open to collaborating on cool & practical projects
 
